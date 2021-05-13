@@ -341,5 +341,12 @@ p {
   position: absolute;
   bottom: -42%;
   background: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), #fff);
+}
 
+/* Use a media query to add a break point at 800px: */
+@media only screen and (max-width: 620px) {
+  /* For mobile phones: */
+  body {
+    width: 100%;
+  }
 }
