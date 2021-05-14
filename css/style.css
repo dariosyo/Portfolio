@@ -49,7 +49,7 @@ p {
 
 /* navigation bar */
 .navbar {
-  padding: 0 0 4.5rem;
+  padding: 0 0 2.5rem;
 }
 
 .navbar-brand {
@@ -307,7 +307,7 @@ p {
 }
 
 .slide1 {
-  background-image: url("../images/dog-img.jpg");
+  background-image: url("../images/Portfolio.jpg");
 }
 .slide2 {
   background-image: url("../images/IMG_6983.png");
@@ -316,10 +316,10 @@ p {
   background-image: url("../images/Trivia-game.png");
 }
 .slide4 {
-  background-image: url("../images/img4.jpg");
+  background-image: url("../images/people-page.jpg");
 }
 .slide5 {
-  background-image: url("../images/img5.jpg");
+  background-image: url("../images/wizh.jpg");
 }
 .swiper-slide::after {
   content:"";
